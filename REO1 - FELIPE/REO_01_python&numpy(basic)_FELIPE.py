@@ -7,7 +7,7 @@
 # PROFESSOR: VINÍCIUS QUINTÃO CARNEIRO
 ########################################################################################################################
 import numpy as np
-np.set_printoptions(precision=2)
+np.set_printoptions(precision=2) #2 casas depois da virgula
 np.set_printoptions(suppress=True)
 #'''
 # REO 01 - LISTA DE EXERCÍCIOS
